@@ -1,2 +1,3 @@
-# CSP-571-DATA-PREPARATION-AND-ANALYSIS
-“Scalable Predictive Analytics: Handling Large Datasets and Model Deployment for Edge Computing”
+# DPA_FINAL_PROJECT
+for the data set vist this link 
+https://drive.google.com/file/d/1sNjWKE3OIQ30INTW2MoqGQU_hTDpktmC/view?usp=sharing
